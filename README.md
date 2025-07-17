@@ -1,9 +1,9 @@
 # MaverickBank
-Name: Yash Sudhakar Jadhav
-Superset ID: 5298089
-College: Imperial College of Engineering and Research, Pune
-Email: yashj98819@gmail.com
-Project name: Maverick Bank
+Name: Yash Sudhakar Jadhav  
+Superset ID: 5298089  
+College: Imperial College of Engineering and Research, Pune  
+Email: yashj98819@gmail.com  
+Project name: Maverick Bank  
 
 PPT Drive link - https://docs.google.com/presentation/d/1W5QB7CCCVypEaudnYpAPl7LTm-AebMvZ/edit?usp=sharing&ouid=111580729733507668982&rtpof=true&sd=true
 
